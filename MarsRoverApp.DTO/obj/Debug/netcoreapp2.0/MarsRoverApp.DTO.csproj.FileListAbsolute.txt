@@ -1,0 +1,9 @@
+c:\users\maerdin\source\repos\MarsRoverApp\MarsRoverApp.DTO\bin\Debug\netcoreapp2.0\MarsRoverApp.DTO.deps.json
+c:\users\maerdin\source\repos\MarsRoverApp\MarsRoverApp.DTO\bin\Debug\netcoreapp2.0\MarsRoverApp.DTO.dll
+c:\users\maerdin\source\repos\MarsRoverApp\MarsRoverApp.DTO\bin\Debug\netcoreapp2.0\MarsRoverApp.DTO.pdb
+c:\users\maerdin\source\repos\MarsRoverApp\MarsRoverApp.DTO\obj\Debug\netcoreapp2.0\MarsRoverApp.DTO.csprojAssemblyReference.cache
+c:\users\maerdin\source\repos\MarsRoverApp\MarsRoverApp.DTO\obj\Debug\netcoreapp2.0\MarsRoverApp.DTO.csproj.CoreCompileInputs.cache
+c:\users\maerdin\source\repos\MarsRoverApp\MarsRoverApp.DTO\obj\Debug\netcoreapp2.0\MarsRoverApp.DTO.AssemblyInfoInputs.cache
+c:\users\maerdin\source\repos\MarsRoverApp\MarsRoverApp.DTO\obj\Debug\netcoreapp2.0\MarsRoverApp.DTO.AssemblyInfo.cs
+c:\users\maerdin\source\repos\MarsRoverApp\MarsRoverApp.DTO\obj\Debug\netcoreapp2.0\MarsRoverApp.DTO.dll
+c:\users\maerdin\source\repos\MarsRoverApp\MarsRoverApp.DTO\obj\Debug\netcoreapp2.0\MarsRoverApp.DTO.pdb

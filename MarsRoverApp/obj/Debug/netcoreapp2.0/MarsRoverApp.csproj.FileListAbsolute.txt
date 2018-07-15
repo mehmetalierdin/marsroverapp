@@ -1,0 +1,16 @@
+c:\users\maerdin\source\repos\MarsRoverApp\MarsRoverApp\bin\Debug\netcoreapp2.0\MarsRoverApp.deps.json
+c:\users\maerdin\source\repos\MarsRoverApp\MarsRoverApp\bin\Debug\netcoreapp2.0\MarsRoverApp.runtimeconfig.json
+c:\users\maerdin\source\repos\MarsRoverApp\MarsRoverApp\bin\Debug\netcoreapp2.0\MarsRoverApp.runtimeconfig.dev.json
+c:\users\maerdin\source\repos\MarsRoverApp\MarsRoverApp\bin\Debug\netcoreapp2.0\MarsRoverApp.dll
+c:\users\maerdin\source\repos\MarsRoverApp\MarsRoverApp\bin\Debug\netcoreapp2.0\MarsRoverApp.pdb
+c:\users\maerdin\source\repos\MarsRoverApp\MarsRoverApp\bin\Debug\netcoreapp2.0\MarsRoverApp.Core.dll
+c:\users\maerdin\source\repos\MarsRoverApp\MarsRoverApp\bin\Debug\netcoreapp2.0\MarsRoverApp.DTO.dll
+c:\users\maerdin\source\repos\MarsRoverApp\MarsRoverApp\bin\Debug\netcoreapp2.0\MarsRoverApp.Core.pdb
+c:\users\maerdin\source\repos\MarsRoverApp\MarsRoverApp\bin\Debug\netcoreapp2.0\MarsRoverApp.DTO.pdb
+c:\users\maerdin\source\repos\MarsRoverApp\MarsRoverApp\obj\Debug\netcoreapp2.0\MarsRoverApp.csprojAssemblyReference.cache
+c:\users\maerdin\source\repos\MarsRoverApp\MarsRoverApp\obj\Debug\netcoreapp2.0\MarsRoverApp.csproj.CoreCompileInputs.cache
+c:\users\maerdin\source\repos\MarsRoverApp\MarsRoverApp\obj\Debug\netcoreapp2.0\MarsRoverApp.AssemblyInfoInputs.cache
+c:\users\maerdin\source\repos\MarsRoverApp\MarsRoverApp\obj\Debug\netcoreapp2.0\MarsRoverApp.AssemblyInfo.cs
+c:\users\maerdin\source\repos\MarsRoverApp\MarsRoverApp\obj\Debug\netcoreapp2.0\MarsRoverApp.csproj.CopyComplete
+c:\users\maerdin\source\repos\MarsRoverApp\MarsRoverApp\obj\Debug\netcoreapp2.0\MarsRoverApp.dll
+c:\users\maerdin\source\repos\MarsRoverApp\MarsRoverApp\obj\Debug\netcoreapp2.0\MarsRoverApp.pdb
